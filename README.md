@@ -83,3 +83,5 @@ touch files
 echo "```bash```"
 reboot
 ```
+# 图片
+![photo.png](https://s2.loli.net/2022/08/14/z9bqWeVDTHEIBRd.png)
