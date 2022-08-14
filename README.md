@@ -54,7 +54,7 @@ destiny2|200$|TOP2
 LOL|free|TOP3
 
 ## 超链接
-[哔哩哔哩](https://www.bilibili.com  "点击进入“) <br>
+[哔哩哔哩](https://www.bilibili.com  "点击进入网页") <br>
 [YouTube](https://www.youtube.com "点击进入网页")<br>
 
 ## 代码片段
@@ -70,7 +70,7 @@ int main(){
 ```cpp
 #include<iostream>
 int main(){
-   cout<<"```c ```"<<endl;
+   cout<<"```cpp ```"<<endl;
    return 1;
 }
 
@@ -80,6 +80,6 @@ import tensorflow as tf
 ```
 ```bash
 touch files
-echo "显示内容"
+echo "```bash```"
 reboot
 ```
