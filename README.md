@@ -54,11 +54,11 @@ destiny2|200$|TOP2
 LOL|free|TOP3
 
 ## 超链接
-[哔哩哔哩](https://www.bilibili.com "点击进入“)
-[YouTube](https://www.youtube.com/ "点击进入网页")
+[哔哩哔哩](https://www.bilibili.com  "点击进入“) <br>
+[YouTube](https://www.youtube.com "点击进入网页")<br>
 
 ## 代码片段
-···c
+```c
 #include<stdio.h>
 int main(){
    printf("```c ```\n");
