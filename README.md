@@ -26,17 +26,23 @@
 
 ## 分割线五个星或五个-
 *****
-
+-----
 ## 列表
 * 线程
   * 线程安全
   * 线程访问互斥
 * IOS
-  1. IOS四层
-    1. 应用
-    2. 传输
-    3. 网络
-    4. 物理
+  1. 应用
+  2. 传输
+  3. 网络
+  4. 物理
+
+1. 物理
+  1.粒子物理
+  2.凝聚态物理
+    1. 原子核物理
+2. 地理
+3. 化学
   
   
 ## 表格插入---居左,---:居右,:-:居中<br>
@@ -48,5 +54,32 @@ destiny2|200$|TOP2
 LOL|free|TOP3
 
 ## 超链接
-[哔哩哔哩]（https://www.bilibili.com "点击进入“）
+[哔哩哔哩](https://www.bilibili.com "点击进入“)
 [YouTube](https://www.youtube.com/ "点击进入网页")
+
+## 代码片段
+···c
+#include<stdio.h>
+int main(){
+   printf("```c ```\n");
+   return 1;
+}
+```
+
+
+```cpp
+#include<iostream>
+int main(){
+   cout<<"```c ```"<<endl;
+   return 1;
+}
+
+```
+```python
+import tensorflow as tf
+```
+```bash
+touch files
+echo "显示内容"
+reboot
+```
