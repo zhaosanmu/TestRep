@@ -85,3 +85,4 @@ reboot
 ```
 # 图片
 ![photo.png](https://s2.loli.net/2022/08/14/z9bqWeVDTHEIBRd.png)
+![7$$54UUOTQ`7$RH$}_YF`)M.png](https://s2.loli.net/2022/08/14/lTwCAOHBW6xZjhs.png)
